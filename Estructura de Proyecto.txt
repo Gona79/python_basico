@@ -1,0 +1,65 @@
+python/
+│
+├── 1_Introduccion_a_Python/
+│   ├── 1_Instalacion_y_Configuracion/
+│   │   ├── README.md
+│   │   ├── instalacion_configuracion.ipynb
+│   ├── 2_Sintaxis_Basica/
+│   │   ├── README.md
+│   │   ├── sintaxis_basica.ipynb
+│   ├── 3_Variables_y_Tipos_de_Datos/
+│   │   ├── README.md
+│   │   ├── variables_tipos_de_datos.ipynb
+│   ├── 4_Estructuras_de_Control/
+│   │   ├── README.md
+│   │   ├── estructuras_de_control.ipynb
+│   ├── 5_Funciones_y_Modulos/
+│   │   ├── README.md
+│   │   ├── funciones_modulos.ipynb
+│   └── 6_Manejo_de_Excepciones/
+│       ├── README.md
+│       ├── manejo_de_excepciones.ipynb
+│
+├── 2_Estructuras_de_Datos/
+│   ├── 1_Listas_Tuplas_Conjuntos/
+│   │   ├── README.md
+│   │   ├── listas_tuplas_conjuntos.ipynb
+│   ├── 2_Diccionarios/
+│   │   ├── README.md
+│   │   ├── diccionarios.ipynb
+│   └── 3_Comprensiones/
+│       ├── README.md
+│       ├── comprensiones.ipynb
+│
+├── 3_POO/
+│   ├── 1_Clases_y_Objetos/
+│   │   ├── README.md
+│   │   ├── clases_objetos.ipynb
+│   ├── 2_Herencia_y_Polimorfismo/
+│   │   ├── README.md
+│   │   ├── herencia_polimorfismo.ipynb
+│   ├── 3_Metodos_y_Atributos/
+│   │   ├── README.md
+│   │   ├── metodos_atributos.ipynb
+│   └── 4_SOLID/
+│       ├── README.md
+│       ├── solid.ipynb
+│
+├── 4_Manejo_de_Archivos/
+│   ├── 1_Lectura_y_Escritura/
+│   │   ├── README.md
+│   │   ├── lectura_escritura.ipynb
+│   ├── 2_CSV_y_JSON/
+│        ├── README.md
+│        ├── csv_json.ipynb
+│
+└── 5_Modulos_y_Paquetes/
+     ├── 1_Modulos/
+     │   ├── README.md
+     │   ├── modulos.ipynb
+     ├── 2_Paquetes/
+     │   ├── README.md
+     │   ├── paquetes.ipynb
+     └── 3_Pip/
+          ├── README.md
+          ├── pip.ipynb
